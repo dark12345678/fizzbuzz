@@ -12,5 +12,5 @@ Notice:
 		<name>aliyun maven</name>
 		<url>http://maven.aliyun.com/nexus/content/groups/public/</url>
 		<mirrorOf>central</mirrorOf>
-	</mirror> 
+   </mirror> 
    
